@@ -15,5 +15,5 @@ spec:
     spec:
       containers:
         - name: revhire-user
-          image: myregistryp2.azurecr.io/userservice
+          image: myregistryp2.azurecr.io/userservice:5
           
